@@ -1,0 +1,12 @@
+{
+  "name": "test-bluetooth-button",
+  "displayName": "test-bluetooth-button",
+  "expo": {
+    "name": "test-bluetooth-button",
+    "slug": "test-bluetooth-button",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
