@@ -3,10 +3,15 @@
   "displayName": "test-bluetooth-button",
   "expo": {
     "name": "test-bluetooth-button",
+    "icon": "./src/assets/other_marker.png",
     "slug": "test-bluetooth-button",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
+  },
+  "android": {
+    "package": "com.toretestar.testbluetoothbutton",
+    "versionCode": 1
   }
 }
